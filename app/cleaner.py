@@ -1,5 +1,5 @@
 """
-cleaner.py - the cleaning logic for CSV Cleaner.
+cleaner.py - the cleaning logic for CSV Integrity Tool.
 
 This file has NO user-interface code. The window (gui.py) and the tests
 (tests/test_cleaner.py) both call the functions below, so the same rules

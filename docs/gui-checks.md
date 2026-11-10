@@ -23,7 +23,7 @@ Input: `samples/customers_messy.csv`.
 | Used **Clean and Save As** | Reported working |
 | Summary showed 9 read, 3 trimmed, 2 empty rows removed, 2 duplicates removed, 5 written, 2 formula warnings | Reported as observed |
 | Output file saved successfully | Reported working |
-| Launch method (`python -m app.gui` or `dist\CSVCleaner.exe`) | **Not confirmed** |
+| Launch method (`python -m app.gui` or `dist\CSVIntegrityTool.exe`) | **Not confirmed** |
 | Preview shows `00124` | **Not confirmed** |
 | Saving to the original file is refused | **Not confirmed** |
 | Asks before replacing an existing output file | **Not confirmed** |

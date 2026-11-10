@@ -1,4 +1,4 @@
-# CSV Cleaner
+# CSV Integrity Tool
 
 A small Windows desktop tool that tidies up CSV files without changing your data.
 
@@ -51,10 +51,10 @@ Uses PyInstaller in a project-only virtual environment. From this folder:
 ```
 python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install pyinstaller
-.\.venv\Scripts\python.exe -m PyInstaller --noconfirm --clean --onefile --windowed --name CSVCleaner --paths . --distpath dist --workpath build --specpath build app\gui.py
+.\.venv\Scripts\python.exe -m PyInstaller --noconfirm --clean --onefile --windowed --name CSVIntegrityTool --paths . --distpath dist --workpath build --specpath build app\gui.py
 ```
 
-The result is `dist\CSVCleaner.exe`. `.venv\`, `build\` and `dist\` are
+The result is `dist\CSVIntegrityTool.exe`. `.venv\`, `build\` and `dist\` are
 ignored by git. Built and start-tested with PyInstaller 6.22.3 and
 Python 3.13.3. The exe is unsigned and not yet ready for clients.
 

@@ -74,7 +74,7 @@ After:
 
 ## How it was produced
 
-Cleaned with the CSV Cleaner in this repository (`app/cleaner.py`), run
+Cleaned with the CSV Integrity Tool in this repository (`app/cleaner.py`), run
 through its Windows interface with the three options above. The summary in
 `summary.txt` is the tool's own output; only the saved-file path was
 shortened to a project-relative path.

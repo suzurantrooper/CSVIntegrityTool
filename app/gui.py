@@ -1,5 +1,5 @@
 """
-gui.py - the simple Windows window for CSV Cleaner.
+gui.py - the simple Windows window for CSV Integrity Tool.
 
 Run it from the project folder with:
     python -m app.gui
@@ -33,7 +33,7 @@ class CsvCleanerApp:
         self.source_path = None   # the file the user opened
         self.data = None          # its contents (a CsvData object)
 
-        root.title("CSV Cleaner")
+        root.title("CSV Integrity Tool")
         root.geometry("900x600")
         root.minsize(600, 450)
 

@@ -1,4 +1,4 @@
-# How CSV Cleaner works
+# How CSV Integrity Tool works
 
 This guide explains every file in the project and what happens when you clean a file.
 
