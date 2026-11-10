@@ -1,0 +1,6 @@
+Data rows read: 21 (not counting the header)
+Cells trimmed: 13
+Empty rows removed: 3
+Duplicate rows removed: 3
+Data rows written: 15
+Saved to: demo/inventory_cleaned.csv

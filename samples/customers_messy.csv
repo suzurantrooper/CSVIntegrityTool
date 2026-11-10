@@ -1,0 +1,10 @@
+customer_id,name,email,city,notes
+00124,  Ava Thompson ,ava.thompson@example.com,Leeds,
+00125,Ben Carter,ben.carter@example.com,  York  ,VIP
+,,,,
+00124,  Ava Thompson ,ava.thompson@example.com,Leeds,
+00126,Chloe Nguyen,chloe.nguyen@example.com,Bristol,"Prefers email, not phone"
+00127,Dan Okafor,dan.okafor@example.net,Leeds,=1+1
+
+00125,Ben Carter,ben.carter@example.com,York,VIP
+00128,Ella Rossi,ella.rossi@example.org,Bath,-call back
